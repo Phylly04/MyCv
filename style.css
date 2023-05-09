@@ -1,0 +1,27 @@
+
+  
+      /* CSS styles for the image */
+      img {
+        display: block; /* Display as a block element */
+        margin: 0 auto; /* Center the image horizontally */
+        width: 70%;
+        max-width: 50%; /* Limit the image width to the container */
+        height: auto; /* Automatically adjust the image height */
+        border: 1px solid #ccc; /* Add a border around the image */
+      }
+   
+ 
+    
+/* .image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin: 10px;
+  transition: transform 0 */
